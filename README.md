@@ -1,8 +1,13 @@
-# Aplikasi Rencana Anggaran Biaya Dinas Perhubungan Kota Palembang Berbasis Web
+## Web-Based Budget Plan App
 
-Aplikasi ini merupakan projek magang pada dinas perhubungan kota palembang
-Dibangun menggunakan teknologi :
+
+
+### Introducion
+**This App** -- is web-based budget plan app for department transpor in Palembang City & this application is project of apprenticeship. Preview on [ALFARISY-TECH](https://alfarisy-tech.my.id)
+### Build With Technology :
 1. PHP Native 
 2. Database MySQL
 3. CSS (Framework Bootstrap)
 
+### Screenshot
+!["RAB Dishub"](https://alfarisy-tech.my.id/images/16276633821.jpg "RAB Dishub")
