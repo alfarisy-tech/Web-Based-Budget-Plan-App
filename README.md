@@ -1,7 +1,4 @@
 ## Web-Based Budget Plan App
-
-
-
 ### Introducion
 **This App** -- is web-based budget plan app for department transpor in Palembang City & this application is project of apprenticeship. Preview on [ALFARISY-TECH](https://alfarisy-tech.my.id)
 ### Build With Technology :
